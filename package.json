@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
